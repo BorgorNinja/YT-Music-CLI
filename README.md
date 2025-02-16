@@ -32,6 +32,7 @@ sudo apt install mpv
 On macOS (using Homebrew):
 
 brew install mpv
+```
 
 On Windows, download from mpv's website.
 
@@ -39,15 +40,15 @@ On Windows, download from mpv's website.
 Usage
 
 1. Clone this repository:
-
+```bash
 git clone https://github.com/yourusername/yt-music-player.git
 cd yt-music-player
-
+```
 
 2. Run the program:
-
+```
 python3 main.py
-
+```
 
 3. Use the following commands within the terminal interface:
 
